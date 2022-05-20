@@ -1,0 +1,6 @@
+password : adminpassword
+No. of Guess's per second : 14675600 
+
+
+this has been accomplished with the rockyou.txt file which I exported from kali
+

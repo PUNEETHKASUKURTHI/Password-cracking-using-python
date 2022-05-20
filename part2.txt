@@ -1,0 +1,12 @@
+Protecting website against this kind of attack
+
+To protect a website from these kind of dictory attacks one should use difficult random parameter passwords with more length and that are difficult to crack.
+
+Various tokens like multi factor authenticaition and other softwares can be used for added security. 
+
+Database must be protected from SQLI using parameterization.
+
+Using a detection system to identify malicious activity while logging in like number of attempts or other automated attacks which are used against the url or key parameters.
+
+Wordlist used for 2nd part sqlmapsmall.txt
+No of guesses per second is 1178. 
